@@ -21,9 +21,9 @@ p{	font-family: 'Didact Gothic', sans-serif;
     font-weight: bold;
 
 }
-/*.tours{
+.tours{
 	position: relative;
-}*/
+}
 
 .tourOne{
     height: 500px;
@@ -38,9 +38,6 @@ p{	font-family: 'Didact Gothic', sans-serif;
 	position: absolute;
     top: 100px;
 	left:50px;
-	
-	
-
 
 }
 .tourTwo{    
